@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sandro Xuskivadze</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xuskivadzee4li&label=Profile%20views&color=3f5427&style=plastic" alt="xuskivadzee4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xuskivadzzee4li&label=Profile%20views&color=3f5427&style=plastic" alt="xuskivadzzee4" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xuskivadzee4" alt="xuskivadzee4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4" alt="xuskivadzzee4" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [xuskivadzee4](https://github.com/xuskivadzee4)
+- 👨‍💻 All of my projects are available at [xuskivadzzee4](https://github.com/xuskivadzzee4)
 
-- 📫 How to reach me [xuskivadzee4](https://www.instagram.com/xuskivadzee4/)
+- 📫 How to reach me [xuskivadzzee4](https://www.instagram.com/xuskivadzee4/)
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,17 +25,17 @@
 </p>
 
 <p align="center">   
-  <a href="https://github.com/xuskivadzee4"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuskivadzee4&theme=radical" alt="Sandro Xuskivadze's GitHub Contribution"/>     </a>
+  <a href="https://github.com/xuskivadzzee4"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuskivadzzee4&theme=radical" alt="Sandro Xuskivadze's GitHub Contribution"/>     </a>
 </p>
 <p align="center">   
   <video src="https://youtu.be/mqCLaWupsTU" controls></video>
 </p>
 
 <p align="center">   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuskivadzee4" alt="Sandro Xuskivadze's GitHub Contribution"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuskivadzzee4" alt="Sandro Xuskivadze's GitHub Contribution"/>
 </p>
 
 <p align="center">   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuskivadzee4" alt=""></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuskivadzzee4" alt=""></a>
 </p>
