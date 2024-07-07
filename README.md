@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuskivadzzee4li&label=Profile%20views&color=3f5427&style=plastic" alt="xuskivadzzee4" /> </p>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4" alt="xuskivadzzee4" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [xuskivadzzee4](https://github.com/xuskivadzzee4)
