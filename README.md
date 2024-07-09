@@ -1,18 +1,22 @@
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=xuskivadzzee4&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=xuskivadzzee4&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
-
-<img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=blocage&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+# 💫 About Me:
+🔭 I’m Looking To Collaborate On Website Projects<br>🌱 I’m Currently Learning C#
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sandro Xuskivadze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xuskivadzee4) 
 
-<a href=#><img src="contributions.svg"></a>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xuskivadzzee4&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xuskivadzzee4&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xuskivadzzee4&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=xuskivadzzee4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=xuskivadzzee4&icon=0&color=6)](https://visitcount.itsvg.in)
