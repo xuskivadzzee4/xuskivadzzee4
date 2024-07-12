@@ -1,3 +1,4 @@
+<p align="center"><img width="100%" src="https://i.giphy.com/ZVik7pBtu9dNS.webp"></p>
 <h1 align="center">Hi 👋, I'm Sandro Xuskivadze</h1>
 <h3 align="center">A Passionate Frontend Developer From Georgia 🇬🇪</h3>
 
