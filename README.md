@@ -26,5 +26,8 @@
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuskivadzzee4&show_icons=true&theme=radical&title_color=ffffff&text_color=c3b6b6&bg_color=151515&locale=en&layout=compact"/>
+</a>
+
+<a href="#">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xuskivadzzee4&theme=dark" alt="xuskivadzzee4"/>
 </a>
