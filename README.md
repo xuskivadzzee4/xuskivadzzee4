@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuskivadzzee4&label=Profile%20Views&color=006eff&style=flat-square" alt="xuskivadzzee4" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=darkhub" alt="xuskivadzzee4" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=juicyfresh" alt="xuskivadzzee4" /></a> </p>
 
 - 🔭 I’m Currently Working On [FoodTaste](https://github.com/xuskivadzzee4/FoodTaste)
 
