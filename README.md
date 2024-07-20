@@ -1,9 +1,7 @@
 <p align="center"><img width="100%" src="https://i.giphy.com/ZVik7pBtu9dNS.webp"></p>
 <h1 align="center">Hi 👋, I'm Sandro Xuskivadze</h1>
 <h3 align="center">A Passionate Frontend Developer From Georgia 🇬🇪</h3>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=xuskivadzzee4&label=Profile%20views&style=for-the-badge" alt="de-soot's Github Profile Visit Count"/></p>
-
+<p></p>‎‎‎‎‎‎‎‎‎‎‎‎
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=xuskivadzzee4&theme=juicyfresh" alt="xuskivadzzee4" /></a> </p>
 
 - 🔭 I’m Currently Working On [FoodTaste](https://github.com/xuskivadzzee4/FoodTaste)
