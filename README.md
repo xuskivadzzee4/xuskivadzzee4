@@ -17,6 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/xuskivadzee4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xuskivadzee4" height="45" width="45"/></a>
+<span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+<span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+<a href="https://www.linkedin.com/in/sandro-xuskivadze-8579702a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="xuskivadzee4" height="45"width="45"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
